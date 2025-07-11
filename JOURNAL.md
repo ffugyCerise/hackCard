@@ -20,7 +20,9 @@ Browsed through default fonts but none were speaking to me. Went online and spen
 Found 4 potential candidates and ended up using Belgiano. (Made a mental note to self for next week's lesson.) Also went on GitHub and downloaded the plugin for image importation.
 Not the best plugin though, tried to see if we could fix the pixelated image through converting things, but it did not work. Will work on this more later.
 
-[insert pictures of what you're working on!]
+<img width="1919" height="951" alt="Image" src="https://github.com/user-attachments/assets/48206ffe-a339-4aef-b8ca-c8bb008cf18f" />
+<img width="399" height="519" alt="Image" src="https://github.com/user-attachments/assets/a979c797-6512-4f0b-9bed-04aa8fb916b4" />
+<img width="1679" height="983" alt="Image" src="https://github.com/user-attachments/assets/de12b1d3-d547-46ec-8af2-c7f1e65532dd" />
 
 **Total time spent: 2h**
 
