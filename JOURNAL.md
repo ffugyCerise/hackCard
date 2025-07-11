@@ -40,8 +40,6 @@ the code aspects. Maybe I’ll decorate the backside with lines of code. Tried i
 Decided to do a design with binary on the soldermask layer. After placing one phrase down it looked really cool, so I chose a couple more phrases—some are actual lines of code, while others are
 random things I found cool :) Had to position the binary around the components on the back, spent a lot of time lining everything up.
 
-**Total time spent: 4h**
-
 Didn't like all the components on the back, so I moved everything to the front side of the card and repositioned the binary design so there aren't
 spaces where the components used to be. I did this like 3 times because i keep on going back and forth about if i want it on front or back.
 
