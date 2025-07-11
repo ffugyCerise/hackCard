@@ -45,7 +45,8 @@ random things I found cool :) Had to position the binary around the components o
 Didn't like all the components on the back, so I moved everything to the front side of the card and repositioned the binary design so there aren't
 spaces where the components used to be. I did this like 3 times because i keep on going back and forth about if i want it on front or back.
 
-[insert pictures of what you're working on!]
+<img width="1268" height="695" alt="Image" src="https://github.com/user-attachments/assets/2e57a382-d1b6-4e53-b37b-7ca17b0be70c" />
+<img width="1268" height="695" alt="Image" src="https://github.com/user-attachments/assets/41fc3e4e-3771-4c2c-a500-895cbe1dd0f2" />
 
 **Total time spent: 8h**
 
