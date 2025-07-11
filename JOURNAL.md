@@ -70,14 +70,12 @@ From June 2nd to June 25th, I was helping other students with their hack cards e
 I promised them I'll keep an eye out so that their hard work isn't in vain. (They spent like 3 months on this and everyone was excited to get them made.)
 ---
 
-# July 8th: 
-I updated my name on the card and also added my LinkedIn to the card.
-[insert pictures of what you're working on!]
+# July 10th: 
+I updated my name, linkedin, and email address on the card. as well as made the color of the ruler cooler
+<img width="1393" height="783" alt="Image" src="https://github.com/user-attachments/assets/c55f0468-5672-40ad-bdd8-c4d1e2c3ca13" />
+<img width="1393" height="783" alt="Image" src="https://github.com/user-attachments/assets/debd9ae8-2249-4e70-a41b-3dc80f3b7984" />
 
 **Total time spent: 20 min**
 
-# June 10th: 
-I updated my email address and GitHub username on the card.
-[insert pictures of what you're working on!]
-
-**Total time spent: 45 min**
+Throughout the designing process I made multiple copies of differen stages in my design process (for copy/pasting the placements), which was why i am still able to show my process :)
+<img width="213" height="351" alt="Image" src="https://github.com/user-attachments/assets/e2d15155-d91c-48d3-9492-109a90b63135" />
