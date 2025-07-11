@@ -9,9 +9,9 @@ Created On: 28/4/2025
 Created the project and placed down all the components for the schematic, and wired them together. Once finished, turned the schematic into a PCB.
 Realized I had chosen the wrong resistor, went back and redid the resistor wiring (made a mental note to emphasize the component selection aspect during the workshop on Thursday).
 Finished the outline of the PCB and started figuring out the placement of components on the board.
+<img width="833" height="732" alt="Image" src="https://github.com/user-attachments/assets/f519070a-c9c8-451e-b825-a6943830f2b5" />
+<img width="1661" height="824" alt="Image" src="https://github.com/user-attachments/assets/6f38c17b-b5ab-4d92-8937-8b088a565e7e" />
 
-
-[insert pictures of what you're working on!]
 
 **Total time spent: 2h**
 
