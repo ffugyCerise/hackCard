@@ -53,15 +53,15 @@ spaces where the components used to be. I did this like 3 times because i keep o
 # June 4th: 
 A student from my workshop discovered the built-in image importer and it works better than the plugin did. I went online and searched up a lot of possible images and uploaded them onto my board to fill in the
 awkward blank spots on the front side. still looks a bit empty tho...
-[insert pictures of what you're working on!]
+<img width="1268" height="695" alt="Image" src="https://github.com/user-attachments/assets/0c4d64c2-f059-4551-8f24-b36950736b0a" />
 
 **Total time spent: 3h**
 
 # June 7th: 
 I added a ruler design (and hopefully it's
-to scale). I tried like 4 different ones and 3 of them looked really off-scale, but the one I ended up choosing looks really promising. I was inspired by this image ()
+to scale). I tried like 4 different ones and 3 of them looked really off-scale, but the one I ended up choosing looks really promising. I was inspired by this image ( <img width="1900" height="879" alt="Image" src="https://github.com/user-attachments/assets/23631f6f-ee68-45d9-9725-8bf79607ed7f" /> )
 
-[insert pictures of what you're working on!]
+<img width="1393" height="783" alt="Image" src="https://github.com/user-attachments/assets/160cad43-7f5b-4612-9029-226b6fa381ef" />
 
 **Total time spent: 4h**
 
