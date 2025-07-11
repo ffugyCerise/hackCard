@@ -28,10 +28,11 @@ Not the best plugin though, tried to see if we could fix the pixelated image thr
 
 # May 25th: 
 AP exams finally over. I powered through the design process today and made a lot of stylistic choices to make the card visually appealing on the front.
-Back side looks lacking though, so I browsed through some examples and was inspired by this one () but I'm not sure about having the lightbulb since it's a bit basic. I asked ChatGPT and really liked
+Back side looks lacking though, so I browsed through some examples and was inspired by this one (https://www.instructables.com/PCB-Business-Card-With-NFC/) but I'm not sure about having the lightbulb since it's a bit basic. I asked ChatGPT and really liked
 the code aspects. Maybe I’ll decorate the backside with lines of code. Tried it and hated the look, will ponder more on this.
 
-[insert pictures of what you're working on!]
+<img width="1228" height="715" alt="Image" src="https://github.com/user-attachments/assets/e9c8e326-21d5-4cf1-b47d-55e2f859596d" />
+<img width="1228" height="715" alt="Image" src="https://github.com/user-attachments/assets/706dab44-cfbd-4361-bfa7-08c441f1853e" />
 
 **Total time spent: 8h**
 
@@ -41,32 +42,23 @@ random things I found cool :) Had to position the binary around the components o
 
 **Total time spent: 4h**
 
-Didn't like all the components on the back, so I moved everything except for the LED to the front side of the card and repositioned the binary design so there aren't
-spaces where the components used to be.
+Didn't like all the components on the back, so I moved everything to the front side of the card and repositioned the binary design so there aren't
+spaces where the components used to be. I did this like 3 times because i keep on going back and forth about if i want it on front or back.
 
 [insert pictures of what you're working on!]
 
-**Total time spent: 6h**
-
-# May 27th: 
-Tried a few different places to put the components on the front side of the card. Decided to have them close to my name. After rewiring them, I realized having the LED on the back makes it hard to
-place the card flat on the surface with the front facing up. So I decided to move the LED to the front and fix the binary AGAIN.
-[insert pictures of what you're working on!]
-
-**Total time spent: 4h**
+**Total time spent: 8h**
 
 # June 4th: 
-Discovered the built-in image importer and it works better than the plugin did. I went online and searched up a lot of possible images and uploaded them onto my board to fill in the
-awkward blank spots on the front side. I still feel like something is missing though... looked again for inspo and found that some random wiring drawn on the board gives it a techy/PCB look.
-Drew a few lines on the front side, looks so much cooler. I also added a contactless symbol on the front to let people know where the NFC chip is.
-
+A student from my workshop discovered the built-in image importer and it works better than the plugin did. I went online and searched up a lot of possible images and uploaded them onto my board to fill in the
+awkward blank spots on the front side. still looks a bit empty tho...
 [insert pictures of what you're working on!]
 
 **Total time spent: 3h**
 
 # June 7th: 
-I added my contact info, email address, and GitHub, and also a "job title" for myself. I also thought the bottom of the card looked really empty, so I wanted to add a ruler design (and hopefully it's
-to scale). I tried like 4 different ones and 3 of them looked really off-scale, but the one I ended up choosing looks really promising.
+I added a ruler design (and hopefully it's
+to scale). I tried like 4 different ones and 3 of them looked really off-scale, but the one I ended up choosing looks really promising. I was inspired by this image ()
 
 [insert pictures of what you're working on!]
 
